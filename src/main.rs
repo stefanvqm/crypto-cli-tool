@@ -1,6 +1,5 @@
 /* Author: Stefan Goetz, 2023
 Warranty Disclaimer: the software is provided "as is" without any warranties or conditions.
-Implementation according to https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197-upd1.pdf
 */
 
 
